@@ -52,8 +52,11 @@ pacientes e o agendamento e cancelamento das consultas.
 Vamos disponibilizar esse protótipo, mas lembrando que é somente para consultas, para visualizarmos como seria o Front-end.
 Isso porque o foco deste curso é o Back-end.
 
-A documentação das funcionalidades do projeto ficará em um quadro do **Trello** com cada uma das funcionalidades. 
-Em cada cartão teremos a descrição de cada funcionalidade, com as regras e validações que vamos implementar ao longo do projeto.
+A documentação das funcionalidades do projeto ficará em um quadro do **[Trello](https://trello.com/b/O0lGCsKb/api-voll-med)** com cada uma das funcionalidades. 
+Em cada cartão teremos a descrição de cada funcionalidade, com as regras e validações que vamos implementar ao longo do projeto.    
+
+Para facilitar o entendimento, dado que vamos desenvolver somente API Back-end (não teremos interface gráfica), 
+vamos disponibilizar os protótipos das telas do aplicativo no **[Figma](https://www.figma.com/file/N4CgpJqsg7gjbKuDmra3EV/Voll.med)**.    
 
 Esse é o nosso objetivo neste curso, aprender a usar o **Spring Boot na versão 3** para desenvolvermos o projeto dessa 
 clínica médica, utilizando as tecnologias mencionadas anteriormente.    
