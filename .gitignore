@@ -248,4 +248,7 @@ build/
 !**/src/main/**/build/
 !**/src/test/**/build/
 
+### env vars ###
+.env
+
 # End of https://www.toptal.com/developers/gitignore/api/java,intellij,visualstudiocode,eclipse
